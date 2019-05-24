@@ -22,3 +22,6 @@ Colors Used:
 @highlightThree: #41DFD2;  
 Styling  
 The styling for this website was completed using LESS preprocessing. All LESS files were broken down into their respective components and then imported into the index.less file.  
+
+Andy Dillon
+ARR
