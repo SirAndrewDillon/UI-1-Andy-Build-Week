@@ -738,7 +738,6 @@ section {
     flex-flow: row nowrap;
     justify-content: center;
     align-items: center;
-    flex-flow: row wrap;
     margin: 2rem;
 }
 
@@ -781,6 +780,6 @@ section {
 
 .fab {
     text-align: center;
-    padding: 0 35px 0 32px;
+    padding: 0 25px 0 25px;
     color: #ef4246;
 }
