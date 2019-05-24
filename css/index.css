@@ -220,7 +220,7 @@ button:active {
 }
 
 .background {
-    background-image: url("/UI-1-Andy-master/assets/img/pattern.jpg");
+    background-image: url("/assets/img/pattern.jpg");
 }
 
 @media (max-width: 800px) {}
@@ -228,7 +228,7 @@ button:active {
 @media (max-width: 500px) {}
 
 .main-nav {
-    background-image: url("/UI-1-Andy-master/assets/img/navimg.png");
+    background-image: url("/assets/img/navimg.png");
     width: 100%;
     height: 6rem;
     position: fixed;
@@ -346,7 +346,7 @@ button:active {
 }
 
 .main-footer {
-    background-image: url("/UI-1-Andy-master/assets/img/navimg.png");
+    background-image: url("/assets/img/navimg.png");
     color: #FFF;
     width: 100%;
     margin: 0 auto;
@@ -480,7 +480,7 @@ button:active {
     margin: 0;
     padding: 0;
     background-color: #000;
-    background-image: url("/UI-1-Andy-master/assets/img/home-plants.png");
+    background-image: url("/assets/img/home-plants.png");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
