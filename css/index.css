@@ -735,7 +735,7 @@ section {
 
 .team {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     justify-content: center;
     align-items: center;
     margin: 2rem;
